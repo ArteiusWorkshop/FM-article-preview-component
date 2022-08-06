@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-interactive-rating-component)
-- Live Site URL: [Live site URL here](https://fm-interactive-rating-component-ql3l17wjw-arteiusworkshop.vercel.app/)
+- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-article-preview-component)
+- Live Site URL: [Live site URL here](https://fm-article-preview-component-b1sey7xnq-arteiusworkshop.vercel.app/)
 
 ## My process
 
